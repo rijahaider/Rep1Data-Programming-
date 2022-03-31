@@ -7,5 +7,6 @@ Created on Thu Mar 31 15:54:15 2022
 """
 
 print("Hello my name is Rija")
+print("Hello my name is Kenya from Japan")
 
 
